@@ -1,6 +1,6 @@
 # Air-Quality-UCI-Nitrogen-Oxides-Predication
 
-This project aims to predict a level of Nitrogen Oxcides in Air Pollution of Italian city. Data acquired from UCI Machine Learning Repository. You can find all information about Dataset from here [Air Quality Dataset](http://archive.ics.uci.edu/ml/datasets/air+quality).
+This project aims to predict a level of Nitrogen Oxcides in Air. Data acquired from UCI Machine Learning Repository. You can find all information about Dataset from here [Air Quality Dataset](http://archive.ics.uci.edu/ml/datasets/air+quality).
 
 ## Project Detail:
 
