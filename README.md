@@ -6,9 +6,3 @@ Created a prediction model using linear regression with data cleaning and wrangl
 Analysis of the data shows following findings:
 * Poisonous gases like CO, NOx are increased in the air over time which also affects one's health.
 * During the day Oxides of Nitrogen level increase because of high use of transportation, industries, electrics, etc
-
-
-## Project Fiels:
-
-* **AirQualityUCI.csv** - Orginal Air Quality Dataset
-* **Air Quality UCI Regression.ipynb** - It contains Data Cleaning, Exploratory Analysis, and Regression Model
