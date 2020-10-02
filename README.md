@@ -6,7 +6,7 @@ This project aims to predict the level of Nitrogen Oxides in Air. The data was a
 
 Built a prediction model using linear regression with data cleaning, and exploratory data analysis with visualization.
 
-**Data Cleaning**: There were some values -200 which means the machine didn't dictate for some reason. Thus, it was replaced with average values. There were very few missing values, remove it.
+**Data Cleaning**: There were some values -200 which means the machine didn't detect for some reason. Thus, it was replaced with average values. There were very few missing values, remove it.
 
 **Data Analysis**:
 The below statements are from the EDA part in the jupyter notebook.
